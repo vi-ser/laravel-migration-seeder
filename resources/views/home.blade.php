@@ -12,8 +12,8 @@
                 <th class="p-2">Azienda</th>
                 <th class="p-2">Stazione di partenza</th>
                 <th class="p-2">Stazione di arrivo</th>
-                <th class="p-2">Orario di partenza</th>
-                <th class="p-2">Orario di arrivo</th>
+                <th class="p-2">Partenza</th>
+                <th class="p-2">Arrivo</th>
                 <th class="p-2">Ritardi</th>
                 <th class="p-2">Stato treno</th>
 
