@@ -15,7 +15,7 @@ class TrainSeeder extends Seeder
      */
     public function run(Faker $faker): void
     {
-        for ($i = 0; $i < 10; $i++) {
+        for ($i = 0; $i < 20; $i++) {
 
             $newTrain = new Train();
 
