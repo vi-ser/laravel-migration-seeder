@@ -17,10 +17,11 @@ return new class extends Migration {
             $table->string('arrival_station');
             $table->timestamp('departure_time');
             $table->timestamp('arrival_time')->nullable();
-            $table->tinyInteger('train_code');
+            $table->string('train_code');
             $table->tinyInteger('n_coach');
             $table->boolean('in_time');
             $table->boolean('cancelled');
+            $table->timestamps();
         });
     }
 
